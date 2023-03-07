@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed May 11 22:14:42 2022
+# Process ID: 8880
+# Current directory: G:/final project/final project.runs/synth_1
+# Command line: vivado.exe -log project.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source project.tcl
+# Log file: G:/final project/final project.runs/synth_1/project.vds
+# Journal file: G:/final project/final project.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source project.tcl -notrace
